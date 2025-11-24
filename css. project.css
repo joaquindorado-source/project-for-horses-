@@ -1,0 +1,23 @@
+body{
+	background-color: #e803fc;
+}
+h1{
+	color: #03fcf8;
+	font-family: courier;
+	font-size: 50px;
+}
+h3{
+	color: #034efc;
+	font-family: unset;
+	font-size: 30px;
+}
+h2{
+	color: #fc9d03;
+	font-family: "times new roman";
+	font-size: 40px;
+}
+h4{
+	color: #4503fc;
+	font-family: inherit;
+	font-size: 70px;
+}
